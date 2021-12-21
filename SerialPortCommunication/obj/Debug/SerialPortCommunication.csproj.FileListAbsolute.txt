@@ -1,0 +1,17 @@
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+C:\Users\mercy\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
