@@ -55,8 +55,8 @@ namespace PCComm
             this.btnClear = new System.Windows.Forms.Button();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
@@ -67,11 +67,11 @@ namespace PCComm
             this.splitContainer2.Panel1.SuspendLayout();
             this.splitContainer2.Panel2.SuspendLayout();
             this.splitContainer2.SuspendLayout();
-            this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer3)).BeginInit();
             this.splitContainer3.Panel1.SuspendLayout();
             this.splitContainer3.Panel2.SuspendLayout();
             this.splitContainer3.SuspendLayout();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // cboData
@@ -202,12 +202,12 @@ namespace PCComm
             this.txtSend.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtSend.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtSend.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.txtSend.Font = new System.Drawing.Font("OCR A Std", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSend.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSend.ForeColor = System.Drawing.Color.White;
-            this.txtSend.Location = new System.Drawing.Point(0, 13);
+            this.txtSend.Location = new System.Drawing.Point(0, 14);
             this.txtSend.Margin = new System.Windows.Forms.Padding(4, 10, 4, 3);
             this.txtSend.Name = "txtSend";
-            this.txtSend.Size = new System.Drawing.Size(414, 23);
+            this.txtSend.Size = new System.Drawing.Size(414, 22);
             this.txtSend.TabIndex = 4;
             // 
             // label3
@@ -437,17 +437,6 @@ namespace PCComm
             this.splitContainer2.SplitterDistance = 36;
             this.splitContainer2.TabIndex = 0;
             // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.rtbDisplay);
-            this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupBox1.Location = new System.Drawing.Point(0, 0);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(561, 525);
-            this.groupBox1.TabIndex = 4;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Console";
-            // 
             // splitContainer3
             // 
             this.splitContainer3.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -467,6 +456,17 @@ namespace PCComm
             this.splitContainer3.SplitterDistance = 414;
             this.splitContainer3.TabIndex = 0;
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.rtbDisplay);
+            this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox1.Location = new System.Drawing.Point(0, 0);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(561, 525);
+            this.groupBox1.TabIndex = 4;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Console";
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -480,7 +480,7 @@ namespace PCComm
             this.Name = "frmMain";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Warefab : Serial Monitor";
+            this.Text = "Serial Monitor";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
@@ -495,12 +495,12 @@ namespace PCComm
             this.splitContainer2.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).EndInit();
             this.splitContainer2.ResumeLayout(false);
-            this.groupBox1.ResumeLayout(false);
             this.splitContainer3.Panel1.ResumeLayout(false);
             this.splitContainer3.Panel1.PerformLayout();
             this.splitContainer3.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer3)).EndInit();
             this.splitContainer3.ResumeLayout(false);
+            this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

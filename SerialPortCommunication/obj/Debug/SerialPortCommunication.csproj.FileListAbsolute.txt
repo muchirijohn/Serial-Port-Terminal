@@ -15,3 +15,11 @@ D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunica
 D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
 D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
 D:\Files\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+D:\Github\Serial-Port-Terminal\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
